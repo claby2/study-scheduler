@@ -285,6 +285,10 @@ body {
         display:none;
     }
 
+    .landing h1, .landing p{
+        width: 40vw;
+    }
+
     #hamburger {
         margin-top: -1vh;
         margin-right: 1.5vw;;
